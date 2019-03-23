@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	influx "github.com/influxdata/influxdb1-client/tree/master/v2"
+	influx "github.com/influxdata/influxdb1-client/v2"
 )
 
 type storage struct {
